@@ -1,6 +1,6 @@
 module github.com/ignavan39/go-pkgs
 
-go 1.18
+go 1.19
 
 require github.com/jackc/pgx v3.6.2+incompatible
 
