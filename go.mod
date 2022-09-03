@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/jackc/pgx v3.6.2+incompatible
-	github.com/jackc/pgx/v4 v4.16.1
+	github.com/jackc/pgx/v4 v4.17.2
 	github.com/sirupsen/logrus v1.9.0
 )
 
