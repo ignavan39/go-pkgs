@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/jackc/pgx v3.6.2+incompatible
-	github.com/jackc/pgx/v4 v4.16.1
+	github.com/jackc/pgx/v4 v4.18.3
 	github.com/sirupsen/logrus v1.9.0
 )
 
@@ -17,7 +17,7 @@ require (
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
 	golang.org/x/exp v0.0.0-20210916165020-5cb4fee858ee // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
-	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 // indirect
+	golang.org/x/sys v0.17.0 // indirect
 )
 
 require (
@@ -25,6 +25,6 @@ require (
 	github.com/go-redis/cache/v8 v8.4.3
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/pkg/errors v0.9.1 // indirect
-	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/crypto v0.20.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 )
